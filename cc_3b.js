@@ -37,7 +37,7 @@ console.log("Eco Bottle is now on sale!");
 
 // restock
 inventory[3].stock += 10;
-console.log("Desk Lamp restocked!");
+console.log("Desk Lamp restocked successfully!");
 
 
 // STEP 4: ORDERS
