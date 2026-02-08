@@ -2,7 +2,7 @@ console.log("=== CC_3B: Order Fulfillment Manager ===");
 
 // STEP 2: INVENTORY
 let inventory = [
-  { sku: "SKU-001", name: "Eco Bottle", price: 19.99, stock: 42 },
+  { sku: "SKU-001", name: "Eco Water Bottle", price: 19.99, stock: 42 },
   { sku: "SKU-002", name: "Notebook", price: 6.50, stock: 12 },
   { sku: "SKU-003", name: "USB-C Cable", price: 11.99, stock: 5 },
   { sku: "SKU-004", name: "Desk Lamp", price: 24.99, stock: 3 }
